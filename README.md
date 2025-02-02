@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Surya-pkh
 - 👀 I’m interested in Learning new StUfFs
-- 🌱 I’m currently learning IOT(Security)
+- 🌱 I’m currently learning IOT(Security) & Dev_Ops
 - 📫 Reach me through email: suryaprakash27032001@gmail.com 
 
 <!---
