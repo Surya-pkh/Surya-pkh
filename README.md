@@ -12,6 +12,7 @@
   <img src="https://skillicons.dev/icons?i=aws"height="50" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" title="Linux"/>
 </p>
+
 ---
 
 <!-- Glass Card -->
