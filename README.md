@@ -83,7 +83,11 @@
   <a href="https://github.com/Surya-pkh">
     <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://surya-devops1.framer.website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
